@@ -1,0 +1,13 @@
+C:\Users\curtin1060\PycharmProjects\PageSpider\venv\Scripts\python.exe C:/Users/curtin1060/PycharmProjects/SolarSystemSample/main.py
+Name: central-star	Type: 0	Volume: 0	Gravity: 0.0
+Name: alpha	Type: 1	Volume: 0	Gravity: -0.026042969321048774
+Name: gamma	Type: 1	Volume: 0	Gravity: -0.03162506147479648
+Name: epsilon	Type: 1	Volume: 0	Gravity: -0.3078006619458552
+Name: zeta	Type: 1	Volume: 0	Gravity: -0.12805972376198554
+Name: eta	Type: 1	Volume: 0	Gravity: -0.07852436344243484
+Name: theta	Type: 1	Volume: 0	Gravity: -0.0003924855533396394
+Name: beta	Type: 2	Volume: 3.094753751758414e+17	Gravity: -0.04551846608863823
+Name: delta	Type: 2	Volume: 2.905167292624474e+20	Gravity: -0.19010349446467067
+Name: iota	Type: 2	Volume: 1.2998379060677505e+19	Gravity: -0.27892453439881043
+
+Process finished with exit code 0
